@@ -4,7 +4,7 @@
 
 Пример приложения [Vue](https://vuejs.org/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](https://timeweb-cloud-app-example-vue-f92a.twc1.net)
+:tada: [Демо](https://twc-app-example-vue.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
